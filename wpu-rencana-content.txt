@@ -5,6 +5,7 @@ RENCANA KONTEN WPU
     ~vue
     ~React
 -struktur data dasar
+  ~Lavarel
 -php frameworks
   ~Lavarel
 -interview
